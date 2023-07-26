@@ -25,6 +25,9 @@ Sadly Moodle Python installation dont have the Murmur and bitarrays libraries, s
 Your program will output to the command line the original e-mail and the Bloom Filter result.
 
 weseGLCIEPTUusDlU@aol.com,Probably in the DB
+
 uEUSgDKJN@hotmail.com,Not  in the DB
+
 PLekUVqtWnRVWShep,Not  in the DB
+
 BXgWIGaZRv@aol.com,Probably in the DB
